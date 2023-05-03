@@ -1,0 +1,6 @@
+framework module Pods_Google_LoginTests {
+  umbrella header "Pods-Google LoginTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

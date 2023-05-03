@@ -1,0 +1,6 @@
+framework module Pods_Google_Login_Google_LoginUITests {
+  umbrella header "Pods-Google Login-Google LoginUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
